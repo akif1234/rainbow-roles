@@ -257,4 +257,4 @@ bot.on('message', message => {
         })
 })
 
-bot.login(token)
+bot.login(NjgxNDc1MzQzNDM3MjY3MDI4.XlO_aw.zsvqAv6-UHMuEuEUwyMnOlTJ20U)
